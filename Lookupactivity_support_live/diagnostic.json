@@ -1,0 +1,22 @@
+{
+    "now": "2021-04-22T23:23:10.410Z",
+    "perfNow": 25083610.83500001,
+    "diagnosticCorrelation": "819bb443-23ab-4580-b5b1-fdf2d71b297b",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.20210417.9",
+        "environmentType": 3,
+        "resourceName": "datatimepoc",
+        "resourceRegion": "eastus",
+        "resourceGroup": "adfpocdate",
+        "subscriptionId": "ab336d31-dc03-4c96-9a34-7c78c4e2b371",
+        "sessionId": "ZmeW1",
+        "operationId": "0P91Y",
+        "gitType": "live"
+    },
+    "additionalInfo": {
+        "selectedResource": "Lookupactivity",
+        "selectedResourceType": "pipeline"
+    }
+}
